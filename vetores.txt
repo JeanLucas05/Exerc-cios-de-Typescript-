@@ -1,0 +1,2 @@
+let mediaJean : number[] = [10,9,8,7,6] 
+console.log(mediaJean)
